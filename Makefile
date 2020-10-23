@@ -1,5 +1,3 @@
-# Copyright 2019 Darius Neatu <neatudarius@gmail.com>
-
 # compiler setup
 CC=gcc
 CFLAGS=-Wall -Wextra -std=c99
