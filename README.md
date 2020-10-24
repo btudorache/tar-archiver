@@ -1,4 +1,4 @@
-# Tema 3
+# Programarea Calculatoarelor - Tema 3
 Implementati un program în limbajul C care simulează un utilitar ce creează o arhivă de tipul [tar](https://www.fileformat.info/format/tar/corion.htm). Utilitarul
 este reprezentat de un fisier executabil cu numele **archiver**, care atunci când rulează poate interpreta anumite
 comenzi de la **standard input (stdin)**. Comenzile pe care programul poate să le interpreteze sunt:
